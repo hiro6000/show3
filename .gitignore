@@ -1,0 +1,17 @@
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.bundle
+vender/bundle
+log/*
+tmp/*
+db/*.sqlite3
+public/system/*
+coverage/
+spec/tmp/*
+**.orig
+config/*.yml
+return.txt
+pickle-email-*.html
